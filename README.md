@@ -10,3 +10,5 @@ The tech used are:
 
 To run:
 pnpm run dev
+
+<img width="1307" alt="image" src="https://github.com/user-attachments/assets/2f182203-ac26-4bd5-bce1-a28560d76c52">
